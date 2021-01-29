@@ -1,0 +1,6 @@
+git init ## 初始化仓库
+cd ## 切换目录
+git add . ## 提交到栈存区
+git commit -m "名字" ## 提交到git
+git push ##推送到仓库
+git status 查看状态
