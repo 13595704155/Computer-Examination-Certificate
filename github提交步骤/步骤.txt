@@ -1,0 +1,4 @@
+git add .            保存栈存区
+git commit -m ""         修改内容保存提交
+git push                提交仓库
+git status                 查看状态
